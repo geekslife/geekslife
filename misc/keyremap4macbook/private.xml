@@ -60,6 +60,10 @@
 
     <!-- 600M Fn hardware keys -->
 		<autogen>__KeyToKey__ 
+			KeyCode::ESCAPE,ModifierFlag::COMMAND_L|ModifierFlag::OPTION_L|ModifierFlag::CONTROL_L
+			, KeyCode::RUSSIAN_TILDE,ModifierFlag::COMMAND_L
+		</autogen>
+		<autogen>__KeyToKey__ 
 			KeyCode::KEY_1,ModifierFlag::COMMAND_L|ModifierFlag::OPTION_L|ModifierFlag::CONTROL_L
 			, KeyCode::F1
 		</autogen>
