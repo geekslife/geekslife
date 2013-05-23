@@ -7,6 +7,8 @@
 		<autogen>__KeyToKey__ KeyCode::F18, 
 			KeyCode::COMMAND_L, ModifierFlag::OPTION_L |  ModifierFlag::CONTROL_L
 		</autogen>
+		<autogen>__KeyToKey__ KeyCode::OPTION_R, KeyCode::COMMAND_R </autogen>
+		<autogen>__KeyToKey__ KeyCode::CONTROL_R, KeyCode::OPTION_R </autogen>
 
     <!-- macbook control function keys -->
 		<autogen>__KeyToKey__ 
