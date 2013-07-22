@@ -3,7 +3,7 @@ Tmux Cheet Sheet
 
 [tmux 입문자님들을 위해](http://bit.ly/132BDQi) 시리즈 참고
 
-# Session
+## Session
 
 * 세션 생성
     * tmux
@@ -19,7 +19,7 @@ Tmux Cheet Sheet
 * 세션 이름 변경
     * ctrl + b , $
 
-# Window
+## Window
 
 * 윈도 생성
     * ctrl + b , c
@@ -29,7 +29,7 @@ Tmux Cheet Sheet
     * ctrl + 번호
     * ctrl + n / p (next/previous)
 
-# Pane
+## Pane
 
 * 행 생성
     * ctrl + b , %
@@ -43,7 +43,7 @@ Tmux Cheet Sheet
 * 크기 변경
     * ctrl + b , ctrl+방향키
 
-# Buffer
+## Buffer
 
 * Copy
     1. ctrl + b , [ (copy mode 시작)
