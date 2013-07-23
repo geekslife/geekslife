@@ -26,8 +26,8 @@ Tmux Cheet Sheet
 * 윈도 삭제
     * ctrl + d
 * 윈도 이동
-    * ctrl + 번호
-    * ctrl + n / p (next/previous)
+    * ctrl + b, 번호
+    * ctrl + b, n / p (next/previous)
 
 ## Pane
 
